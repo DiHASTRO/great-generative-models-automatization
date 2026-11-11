@@ -1,0 +1,18 @@
+{
+  "one-shot": {
+    "success_rate": 1.0,
+    "sentiment_acc": 0.9166666666666666,
+    "aspect_f1": 0.8194444444444445,
+    "avg_latency_s": 1.5038010333325171,
+    "avg_llm_calls": 1.0,
+    "avg_tokens": 420.4166666666667
+  },
+  "workflow": {
+    "success_rate": 1.0,
+    "sentiment_acc": 0.9166666666666666,
+    "aspect_f1": 0.875,
+    "avg_latency_s": 2.7291920166656687,
+    "avg_llm_calls": 2.0,
+    "avg_tokens": 775.3333333333334
+  }
+}
